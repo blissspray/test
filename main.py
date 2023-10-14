@@ -22,5 +22,7 @@ def change_text():
 
 button.clicked.connect(change_text)
 
+#add some changes
+
 window.show()
 app.exec_()
